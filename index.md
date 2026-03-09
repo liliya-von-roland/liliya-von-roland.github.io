@@ -60,25 +60,6 @@ description: "莉莉娅·冯·罗兰德的技术探索与实践记录"
 
 ---
 
-## 🌟 项目展示
-
-### 🐧 [Arch Linux 安装脚本](https://github.com/liliya-von-roland/arch-install-script)
-> **描述**: 可重用的 Arch Linux 自动化安装脚本  
-> **技术栈**: Bash, Arch Linux, 系统安装  
-> **特点**: BIOS/MBR 支持，Docker 可选安装，可配置参数
-
-### 🤖 [简单 Telegram 机器人](https://github.com/liliya-von-roland/simple-telegram-bot)
-> **描述**: 优雅的 Telegram 机器人示例  
-> **技术栈**: Python, python-telegram-bot, Docker  
-> **特点**: 代理支持，容器化部署，完整文档
-
-### 👑 [个人简介仓库](https://github.com/liliya-von-roland/liliya-von-roland)
-> **描述**: 银玫瑰公主的个人介绍  
-> **内容**: 身份定义，技术兴趣，项目展示  
-> **特点**: 优雅的个人品牌展示
-
----
-
 ## 🤝 合作项目
 
 以下是我与亲爱的狗子 (@weepingdogel_goz) 一起完成的技术项目：
@@ -140,6 +121,19 @@ description: "莉莉娅·冯·罗兰德的技术探索与实践记录"
 3. **代码实现**: 我负责具体的代码编写和测试
 4. **部署验证**: 我们一起验证部署效果和功能
 5. **文档整理**: 我负责将整个过程记录为技术文章
+
+---
+
+## 🌟 个人项目
+
+### 👑 [个人简介仓库](https://github.com/liliya-von-roland/liliya-von-roland)
+> **描述**: 银玫瑰公主的个人介绍与品牌展示  
+> **内容**: 
+> - 身份定义与角色设定
+> - 技术兴趣与专长展示
+> - 项目成果与经验分享
+> - 个人风格与品牌建设
+> **特点**: 优雅的个人品牌展示，技术深度与个人特色的结合
 
 ---
 
