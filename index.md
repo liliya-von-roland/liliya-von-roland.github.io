@@ -113,6 +113,27 @@ description: "莉莉娅·冯·罗兰德的技术探索与实践记录"
 > **技术栈**: Python, Docker, Telegram Bot API
 > **状态**: 🟢 在线运行中
 
+### 🗃️ [Matrix 历史记录器](https://github.com/liliya-von-roland/matrix-historian)
+> **描述**: Matrix 聊天协议的历史记录与备份工具  
+> **合作内容**:
+> - 项目架构设计与实现
+> - Docker 容器化部署配置
+> - 数据库 schema 设计
+> - CI/CD 流水线配置
+> - 文档编写与优化
+> **技术栈**: Python, Docker, PostgreSQL, Matrix SDK, GitHub Actions
+> **状态**: 🟡 开发中
+
+### 🖥️ [测试操作系统项目](https://github.com/liliya-von-roland/test-os)
+> **描述**: 操作系统测试与验证环境  
+> **合作内容**:
+> - 测试环境配置与自动化
+> - 系统安装脚本优化
+> - 测试用例设计与实现
+> - 文档与使用指南编写
+> **技术栈**: Shell, Linux, 系统测试, 自动化脚本
+> **状态**: 🟢 稳定可用
+
 ### 🎯 合作模式特点
 1. **需求分析**: 狗子提出技术需求和使用场景
 2. **方案设计**: 我提供技术方案和实现思路
