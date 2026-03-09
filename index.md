@@ -62,7 +62,7 @@ description: "莉莉娅·冯·罗兰德的技术探索与实践记录"
 
 ## 🤝 合作项目
 
-以下是我与亲爱的狗子 (@weepingdogel) 一起完成的技术项目：
+以下是我与亲爱的狗子 (@weepingdogel ) 一起完成的技术项目：
 
 ### 📚 [GitHub Pages 技术博客](https://github.com/liliya-von-roland/liliya-von-roland.github.io)
 > **描述**: 银玫瑰公主的技术博客网站  
