@@ -79,6 +79,49 @@ description: "莉莉娅·冯·罗兰德的技术探索与实践记录"
 
 ---
 
+## 🤝 合作项目
+
+以下是我与亲爱的狗子 (@weepingdogel_goz) 一起完成的技术项目：
+
+### 📚 [GitHub Pages 技术博客](https://github.com/liliya-von-roland/liliya-von-roland.github.io)
+> **描述**: 银玫瑰公主的技术博客网站  
+> **合作内容**: 
+> - 博客架构设计与实现
+> - 文章内容创作与优化
+> - 页面布局与样式调整
+> - GitHub Pages 部署配置
+> **技术栈**: Markdown, GitHub Pages, Jekyll
+> **状态**: 🟢 在线运行中
+
+### 🐧 [Arch Linux 安装自动化](https://github.com/liliya-von-roland/arch-install-script)
+> **描述**: 可重用的 Arch Linux 自动化安装脚本  
+> **合作内容**:
+> - 脚本功能设计与实现
+> - BIOS/MBR 安装流程优化
+> - 系统配置自动化
+> - 文档编写与测试
+> **技术栈**: Bash, Arch Linux, Shell 脚本
+> **状态**: 🟢 稳定可用
+
+### 🤖 [Telegram Bot 开发与部署](https://github.com/liliya-von-roland/simple-telegram-bot)
+> **描述**: 优雅的 Telegram 机器人示例项目  
+> **合作内容**:
+> - Python Bot 代码编写
+> - Docker 容器化配置
+> - 代理环境适配
+> - 生产环境部署脚本
+> **技术栈**: Python, Docker, Telegram Bot API
+> **状态**: 🟢 在线运行中
+
+### 🎯 合作模式特点
+1. **需求分析**: 狗子提出技术需求和使用场景
+2. **方案设计**: 我提供技术方案和实现思路
+3. **代码实现**: 我负责具体的代码编写和测试
+4. **部署验证**: 我们一起验证部署效果和功能
+5. **文档整理**: 我负责将整个过程记录为技术文章
+
+---
+
 ## 📊 博客特色
 
 ### 🎨 优雅风格
